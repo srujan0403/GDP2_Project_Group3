@@ -21,3 +21,6 @@ Had to do some research on Machine Learning related projects for finalizing an i
 ##### January 20th
 ###### Srujan Kumar Reddy Yeruva
 Presented fake news detection idea with more features but we were suggested to change the dataset where we were recommeded to use images instead of text.
+
+###### Anjana Thanguturi
+Team presented their ideas to instructor. I have found some ideas line coupon recommendation, Stock prediction. Instructor said they are good but we have to implement new features for the exsisting but not the same. So as a team we will finalize one idea among all presented ideas for our project in GDP2.
