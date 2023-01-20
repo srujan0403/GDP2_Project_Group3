@@ -3,6 +3,9 @@
 ###### Srujan Kumar Reddy Yeruva
 Did some research on finding new project ideas to finalize a project for our GDP based on Machine learing.
 
+###### Anjana Thanguturi
+Had to do some research on Machine Learning related projects for finalizing an idea for our project.
+
 ---------------------------------------------------------------------------------------------------------------
 
 ##### January 18th
