@@ -12,6 +12,10 @@ Holiday
 ###### Srujan Kumar Reddy Yeruva
 I have chosen to present Fake news detection project idea to the instructor. We were asked to come with more features to the idea to make it more bigger and better.
 
+
+###### Anjana Thanguturi
+Had to do some research on Machine Learning related projects for finalizing an idea for our project.
+
 -----------------------------------------------------------------------------------------------------------------
 
 ##### January 20th
