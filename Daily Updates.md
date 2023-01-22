@@ -32,7 +32,7 @@ Need to search for some ideas for our project
 I have presented an idea on images to the instructor. We were asked to come with more features to the idea.
 
 ###### Madhupriya Gundeti
-Searched a project on Speech Emotion Recognizer and need to research on that project.
+Searched a project called Speech Emotion Recognizer and need to research on that project.
 
 -----------------------------------------------------------------------------------------------------------------
 
