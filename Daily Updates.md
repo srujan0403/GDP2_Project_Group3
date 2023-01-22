@@ -50,4 +50,4 @@ Project concepts were discussed with the team members and need to finalize our p
 I have presented my idea with some features like we can seperate data by using dimensions and shape.But we were suggested to implement the idea.
 
 ###### Madhupriya Gundeti
-Need to discuss project with the teammates and need to filalize the project.
+Need to discuss project with the teammates and need to filalize the project by the end of the week.
