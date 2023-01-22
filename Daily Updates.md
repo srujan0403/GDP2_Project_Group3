@@ -12,6 +12,9 @@ Holiday
 ###### Sindhuja Vilipala
 I have done some research on the separation of data based on images in machine learning.
 
+###### Madhupriya Gundeti
+I have searched some projects regarding Machine learning projects.
+
 ---------------------------------------------------------------------------------------------------------------
 
 ##### January 18th
