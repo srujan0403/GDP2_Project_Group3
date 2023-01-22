@@ -19,6 +19,9 @@ I have chosen to present Fake news detection project idea to the instructor. We 
 ###### Anjana Thanguturi
 Had to do some research on Machine Learning related projects for finalizing an idea for our project.
 
+###### Naina Sahiri
+Need to search for some ideas for our project
+
 -----------------------------------------------------------------------------------------------------------------
 
 ##### January 20th
