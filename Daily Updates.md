@@ -25,6 +25,9 @@ Had to do some research on Machine Learning related projects for finalizing an i
 ###### Naina Sahiri
 Need to search for some ideas for our project
 
+###### Sindhuja Vilipala
+I have presented an idea on images to the instructor. We were asked to come with more features to the idea.
+
 -----------------------------------------------------------------------------------------------------------------
 
 ##### January 20th
