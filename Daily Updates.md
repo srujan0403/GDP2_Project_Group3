@@ -6,6 +6,9 @@ Did some research on finding new project ideas to finalize a project for our GDP
 ###### Anjana Thanguturi
 Holiday
 
+###### Naina Sahiri
+Holiday
+
 ---------------------------------------------------------------------------------------------------------------
 
 ##### January 18th
