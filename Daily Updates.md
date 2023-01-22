@@ -9,6 +9,9 @@ Holiday
 ###### Naina Sahiri
 Holiday
 
+###### Sindhuja Vilipala
+I have done some research on the separation of data based on images in machine learning.
+
 ---------------------------------------------------------------------------------------------------------------
 
 ##### January 18th
