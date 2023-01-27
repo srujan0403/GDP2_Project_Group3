@@ -61,6 +61,8 @@ Implemented the idea and presented my idea to the instructor,the idea is good ba
 ###### Srujan Kumar Reddy Yeruva
 We have proposed Grocery Inventory idea based on image classification and instructor was fine with the idea and asked us to come up with suitable datasets.
 
+###### Anjana Thanguturi
+We have discussed some ML ideas with instructor and we have finalised Grocery Inventory idea. Instructor asked us to find some suitable datasets.
 
 --------------------------------------------------------------------------------------------------------------
 ##### January 25th
