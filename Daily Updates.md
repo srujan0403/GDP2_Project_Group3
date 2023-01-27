@@ -75,6 +75,9 @@ We have found some datasets and they were discussed with instructor. We have zer
 ###### Sindhuja Vilipala
 I have searched some datasets on images that we use in our project for the classification of data. And we were suggested to do classification of data.
 
+###### Naina Sahiri
+A few image datasets were searched, and the team presented the results to the client.
+
 -------------------------------------------------------------------------------------------------------------
 
 
