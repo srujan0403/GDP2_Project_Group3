@@ -69,6 +69,8 @@ We have discussed some ML ideas with instructor and we have finalised Grocery In
 ###### Srujan Kumar Reddy Yeruva
 We have found some datasets and they were discussed with instructor. We have zeroed on two datasets.
 
+###### Anjana Thanguturi
+We have showed some datasets related to Grocery Inventory and Instructor asked us to implement sample image classification project
 
 -------------------------------------------------------------------------------------------------------------
 
