@@ -1,5 +1,13 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import cv2 as cv
+from tensorflow import keras
+from keras import datasets, layers, models
 
+(training_images, training_labels), (testing_images, testing_labels) = datasets.cifar10.load_data()
+training_images, testing_images = training_images / 255, testing_images / 255
 
+class_names = ['Plane', 'Car', 'Bird', 'Cat', 'Deer', 'Dog', 'Frog', 'Horse', 'Ship', 'Truck']
 
 model = models.Sequential()
 model.add(layers.Conv2D(32, (3,3), activation= 'relu', input_shape=(32,32,3)))
