@@ -46,3 +46,8 @@ plt.imshow(img, cmap=plt.cm.binary)
 prediction = model.predict(np.array([img]) / 255)
 index = np.argmax(prediction)
 print(f'Prediction is {class_names[index]}')
+
+model = models.load_model('C:/Users/S546444/PycharmProjects/ClassifyImage/image_classifier.model')
+
+img = cv.imread('car.jpg')
+img = cv.cvtColor(img, cv.COLOR_BGR2RGB)
