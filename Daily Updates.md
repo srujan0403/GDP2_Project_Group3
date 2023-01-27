@@ -52,8 +52,11 @@ I have presented my idea with some features like we can seperate data by using d
 ###### Madhupriya Gundeti
 Need to discuss project with the teammates and need to filalize the project by the end of the week.
 
+---------------------------------------------------------------------------------------------------------------
+
 ##### January 23rd
 ###### Sindhuja Vilipala
 Implemented the idea and presented my idea to the instructor,the idea is good based on images but instructor suggested us to make it clear to implement the project.
 
-
+###### Srujan Kumar Reddy Yeruva
+We have proposed Grocery Inventory idea based on image classification and instructor was fine with the idea and asked us to come up with suitable datasets.
