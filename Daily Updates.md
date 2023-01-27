@@ -67,6 +67,9 @@ We have discussed some ML ideas with instructor and we have finalised Grocery In
 ###### Naina Sahiri
 proposed machine learning project ideas to the client and should search for some datasets required for our project.
 
+###### Madhupriya Gundeti
+Researched some projects regarding machine learning and presented our ideas to the professor. Professir asked to find some datasets.
+
 --------------------------------------------------------------------------------------------------------------
 ##### January 25th
 ###### Srujan Kumar Reddy Yeruva
