@@ -81,6 +81,9 @@ I have searched some datasets on images that we use in our project for the class
 ###### Naina Sahiri
 A few image datasets were searched, and the team presented the results to the client.
 
+###### Madhupriya Gundeti
+Found some data sets after searching in kaggle. And persented our datasets to the instructor.
+
 -------------------------------------------------------------------------------------------------------------
 
 
