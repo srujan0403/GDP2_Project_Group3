@@ -40,3 +40,9 @@ for i in range(16):
     plt.xlabel(class_names[training_labels[i][0]])
 
 plt.show()
+
+plt.imshow(img, cmap=plt.cm.binary)
+
+prediction = model.predict(np.array([img]) / 255)
+index = np.argmax(prediction)
+print(f'Prediction is {class_names[index]}')
