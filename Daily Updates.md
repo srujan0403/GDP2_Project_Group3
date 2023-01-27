@@ -64,6 +64,9 @@ We have proposed Grocery Inventory idea based on image classification and instru
 ###### Anjana Thanguturi
 We have discussed some ML ideas with instructor and we have finalised Grocery Inventory idea. Instructor asked us to find some suitable datasets.
 
+###### Naina Sahiri
+proposed machine learning project ideas to the client and should search for some datasets required for our project.
+
 --------------------------------------------------------------------------------------------------------------
 ##### January 25th
 ###### Srujan Kumar Reddy Yeruva
