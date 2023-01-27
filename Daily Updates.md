@@ -51,3 +51,9 @@ I have presented my idea with some features like we can seperate data by using d
 
 ###### Madhupriya Gundeti
 Need to discuss project with the teammates and need to filalize the project by the end of the week.
+
+##### January 23rd
+###### Sindhuja Vilipala
+Implemented the idea and presented my idea to the instructor,the idea is good based on images but instructor suggested us to make it clear to implement the project.
+
+
