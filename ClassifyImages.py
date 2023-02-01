@@ -18,10 +18,10 @@ for i in range(16):
 
 plt.show()
 
-training_images = training_images[:20000]
-training_labels = training_labels[:20000]
-testing_images = testing_images[:4000]
-testing_labels = testing_labels[:4000]
+training_images = training_images[:60000]
+training_labels = training_labels[:60000]
+testing_images = testing_images[:12000]
+testing_labels = testing_labels[:12000]
 
 model = models.Sequential()
 model.add(layers.Conv2D(64, (3,3), activation= 'relu', input_shape=(32,32,3)))
@@ -35,7 +35,7 @@ model.add(layers.Dense(10, activation='softmax'))
 
 model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
-model.fit(training_images, training_labels, epochs=20, validation_data=(testing_images, testing_labels))
+model.fit(training_images, training_labels, epochs=10, validation_data=(testing_images, testing_labels))
 
 loss, accuracy = model.evaluate(testing_images, testing_labels)
 print(f"Loss: {loss}")
