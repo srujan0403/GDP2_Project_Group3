@@ -92,5 +92,8 @@ Trying to increase the accuracy of our initial image classification model and al
 ###### Sindhuja Vilipala
 Trying to implement the image classification with our custom dataset.
 
+###### Madupriya Gundeti
+Trying to use our own dataset to implement the image classification.
+
 
 
