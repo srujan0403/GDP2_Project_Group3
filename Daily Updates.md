@@ -85,6 +85,7 @@ A few image datasets were searched, and the team presented the results to the cl
 Found some data sets after searching in kaggle. And persented our datasets to the instructor.
 
 -------------------------------------------------------------------------------------------------------------
-
-
+##### January 30th
+###### Anjana Thanguturi
+Trying to increase the accuracy of our initial image classification model and also we are trying to implement the image classification model for our dataset.
 
