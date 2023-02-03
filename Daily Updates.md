@@ -95,5 +95,8 @@ Trying to implement the image classification with our custom dataset.
 ###### Madupriya Gundeti
 Trying to use our own dataset to implement the image classification.
 
+###### Srujan Kumar Reddy Yeruva
+Made changes to model to increase accuracy of it. Planning to develop a model to classify custom dataset
+
 
 
