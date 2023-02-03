@@ -89,3 +89,8 @@ Found some data sets after searching in kaggle. And persented our datasets to th
 ###### Anjana Thanguturi
 Trying to increase the accuracy of our initial image classification model and also we are trying to implement the image classification model for our dataset.
 
+###### Sindhuja Vilipala
+Trying to implement the image classification with our custom dataset.
+
+
+
