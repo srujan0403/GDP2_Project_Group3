@@ -114,3 +114,7 @@ Trying to increase the accuracy of model and tried to resolve the error.
 
 ###### Madhupriya Gundeti
 We have an error while using our dataset to implement the image classification and we tried to resolve the error by modifying the code.
+
+###### Naina Sahiri
+Solved errors while trying to implement image classification .
+
