@@ -103,5 +103,6 @@ Made changes to model to increase accuracy of it. Planning to develop a model to
 ###### Srujan Kumar Reddy Yeruva
 Resolved errors which occurred to custom dataset model but model isn't working as expected. It is unable to distinguish between vegetables and fruits. Make changes to model to make it perform accurately
 
-
+###### Sindhuja Vilipala
+While trying to implement with our custom dataset we are facing an error. We are facing an issue with our custom dataset to classify the images.
 
