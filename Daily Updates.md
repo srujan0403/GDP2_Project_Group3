@@ -98,6 +98,9 @@ Trying to use our own dataset to implement the image classification.
 ###### Srujan Kumar Reddy Yeruva
 Made changes to model to increase accuracy of it. Planning to develop a model to classify custom dataset
 
+###### Naina Sahiri
+We are working to improve the precision of our first picture classification model as well as to apply the model to our dataset.
+
 ---------------------------------------------------------------------------------------------------------
 ##### February 3rd
 ###### Srujan Kumar Reddy Yeruva
