@@ -1,8 +1,10 @@
+import os
 import numpy as np
 import matplotlib.pyplot as plt
 import cv2 as cv
 from tensorflow import keras
 from keras import datasets, layers, models
+import keras.preprocessing.image
 
 (training_images, training_labels), (testing_images, testing_labels) = datasets.cifar10.load_data()
 training_images, testing_images = training_images / 255, testing_images / 255
