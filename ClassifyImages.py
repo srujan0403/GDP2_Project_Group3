@@ -59,3 +59,7 @@ model.save('image_classifier.model')
 # index = np.argmax(prediction)
 # print(f'Prediction is {class_names[index]}')
 
+prediction = model.predict(test_image)
+prediction_class = np.argmax(prediction, axis=1)
+prediction_label = [key for key, value in classes.items() if value == prediction_class[0]]
+print(f'The predicted class is: {prediction_label[0]}')
