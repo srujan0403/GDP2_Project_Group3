@@ -59,6 +59,10 @@ model.save('image_classifier.model')
 # index = np.argmax(prediction)
 # print(f'Prediction is {class_names[index]}')
 
+test_image = tf.keras.preprocessing.image.load_img('Banana.jpg', target_size=(150, 150))
+test_image = tf.keras.preprocessing.image.img_to_array(test_image)
+test_image = np.expand_dims(test_image, axis=0)
+
 prediction = model.predict(test_image)
 prediction_class = np.argmax(prediction, axis=1)
 prediction_label = [key for key, value in classes.items() if value == prediction_class[0]]
