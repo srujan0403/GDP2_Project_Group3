@@ -6,6 +6,8 @@ from tensorflow import keras
 from keras import datasets, layers, models
 import keras.preprocessing.image
 
+dataset_path = 'C:\\Users\\S546941\\PycharmProjects\\GrocerySnap\\GroceryDataset\\'
+
 (training_images, training_labels), (testing_images, testing_labels) = datasets.cifar10.load_data()
 training_images, testing_images = training_images / 255, testing_images / 255
 
