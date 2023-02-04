@@ -106,3 +106,6 @@ Resolved errors which occurred to custom dataset model but model isn't working a
 ###### Sindhuja Vilipala
 While trying to implement with our custom dataset we are facing an error. We are facing an issue with our custom dataset to classify the images.
 
+###### Anjana Thanguturi
+Trying to increase the accuracy of model and tried to resolve the error.
+
