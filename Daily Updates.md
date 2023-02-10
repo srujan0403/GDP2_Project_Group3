@@ -132,7 +132,8 @@ Attended workshop and presented keras topics. And working on image classificatio
 ###### Srujan Kumar Reddy Yeruva
 Build the model to classify images. We were able to detect Vegetables but not fruits. Working on the same to resolve the issue.
 
-
+###### Sindhuja Vilipala
+Worked on image classification by using keras library. To train the model, I have tried with fit_generator.
 
 
 
