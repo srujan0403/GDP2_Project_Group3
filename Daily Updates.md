@@ -122,6 +122,9 @@ Solved errors while trying to implement image classification .
 ###### Srujan Kumar Reddy Yeruva
 Attended workshop and presented tensorflow topic to class. Also, started working on building model to classify images.
 
+###### Sindhuja Vilipala
+Attended workshop and presented keras topics. And working on image classification.
+
 ------------------------------------------------------------------------------------------------
 ##### February 8th
 ###### Srujan Kumar Reddy Yeruva
