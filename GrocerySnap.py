@@ -15,3 +15,14 @@ model = keras.Sequential([
     keras.layers.Dense(512, activation='relu'),
     keras.layers.Dense(num_classes, activation='softmax')
 ])
+model.compile(optimizer='adam',
+              loss='categorical_crossentropy',
+              metrics=['accuracy'])
+
+
+history = model.fit_generator(train_generator,
+                              epochs=10,
+                              steps_per_epoch=10)
+
+
+model.save('fruits_and_vegetables_classifier.h5')
