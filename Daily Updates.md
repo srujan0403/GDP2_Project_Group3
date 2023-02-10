@@ -117,4 +117,9 @@ We have an error while using our dataset to implement the image classification a
 
 ###### Naina Sahiri
 Solved errors while trying to implement image classification .
+-------------------------------------------------------------------------------------------------
+##### February 6th
+###### Srujan Kumar Reddy Yeruva
+Attended workshop and presented tensorflow topic to class. Also, started working on building model to classify images.
+
 
