@@ -122,4 +122,10 @@ Solved errors while trying to implement image classification .
 ###### Srujan Kumar Reddy Yeruva
 Attended workshop and presented tensorflow topic to class. Also, started working on building model to classify images.
 
+------------------------------------------------------------------------------------------------
+##### February 8th
+###### Srujan Kumar Reddy Yeruva
+Build the model to classify images. We were able to detect Vegetables but not fruits. Working on the same to resolve the issue.
+
+
 
