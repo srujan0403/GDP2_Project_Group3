@@ -26,3 +26,13 @@ history = model.fit_generator(train_generator,
 
 
 model.save('fruits_and_vegetables_classifier.h5')
+
+test_image = tf.keras.preprocessing.image.load_img('Potato.jpg', target_size=(150, 150))
+test_image = tf.keras.preprocessing.image.img_to_array(test_image)
+test_image = np.expand_dims(test_image, axis=0)
+
+
+prediction = model.predict(test_image)
+prediction_class = np.argmax(prediction, axis=1)
+prediction_label = [key for key, value in classes.items() if value == prediction_class[0]]
+print(f'The predicted class is: {prediction_label[0]}')
