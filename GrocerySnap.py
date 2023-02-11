@@ -1,7 +1,23 @@
+import os
+import numpy as np
+import tensorflow as tf
+from tensorflow import keras
+import keras.preprocessing.image
 
 
+dataset_path = 'C:\\Users\\S546444\\PycharmProjects\\GrocerySnap\\Grocerydataset\\'
 
 
+train_datagen = tf.keras.preprocessing.image.ImageDataGenerator(rescale=1. / 255,shear_range=0.2,zoom_range=0.2,horizontal_flip=True)
+
+train_generator = train_datagen.flow_from_directory(dataset_path,
+                                                    target_size=(150, 150),
+                                                    batch_size=200,
+                                                    class_mode='categorical')
+
+
+num_classes = len(train_generator.class_indices)
+classes = train_generator.class_indices
 
 
 model = keras.Sequential([
@@ -15,6 +31,8 @@ model = keras.Sequential([
     keras.layers.Dense(512, activation='relu'),
     keras.layers.Dense(num_classes, activation='softmax')
 ])
+
+
 model.compile(optimizer='adam',
               loss='categorical_crossentropy',
               metrics=['accuracy'])
@@ -27,6 +45,7 @@ history = model.fit_generator(train_generator,
 
 model.save('fruits_and_vegetables_classifier.h5')
 
+
 test_image = tf.keras.preprocessing.image.load_img('Potato.jpg', target_size=(150, 150))
 test_image = tf.keras.preprocessing.image.img_to_array(test_image)
 test_image = np.expand_dims(test_image, axis=0)
@@ -36,12 +55,3 @@ prediction = model.predict(test_image)
 prediction_class = np.argmax(prediction, axis=1)
 prediction_label = [key for key, value in classes.items() if value == prediction_class[0]]
 print(f'The predicted class is: {prediction_label[0]}')
-
-import os
-import numpy as np
-import tensorflow as tf
-from tensorflow import keras
-import keras.preprocessing.image
-
-
-dataset_path = 'C:\\Users\\S546982\\PycharmProjects\\GrocerySnap\\Grocerydataset\\'
