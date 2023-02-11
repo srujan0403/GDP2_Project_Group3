@@ -58,3 +58,14 @@ model.save('image_classifier.model')
 # prediction = model.predict(np.array([img]) / 255)
 # index = np.argmax(prediction)
 # print(f'Prediction is {class_names[index]}')
+
+train_datagen = tf.keras.preprocessing.image.ImageDataGenerator(rescale=1. / 255,shear_range=0.2,zoom_range=0.2,horizontal_flip=True)
+
+train_generator = train_datagen.flow_from_directory(dataset_path,
+                                                    target_size=(150, 150),
+                                                    batch_size=200,
+                                                    class_mode='categorical')
+
+
+num_classes = len(train_generator.class_indices)
+classes = train_generator.class_indices
