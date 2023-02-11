@@ -132,7 +132,8 @@ Attended workshop and presented Matplotlib topics and started working on our mod
 ###### Naina Sahiri
 presented a workshop session on machine learning introduction.
 
-
+###### Madhupriya Gundeti
+Worked on image classification presentation.
 ------------------------------------------------------------------------------------------------
 ##### February 8th
 ###### Srujan Kumar Reddy Yeruva
