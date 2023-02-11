@@ -129,6 +129,9 @@ Attended workshop and presented keras topics. And working on image classificatio
 ###### Anjana Thanguturi
 Attended workshop and presented Matplotlib topics and started working on our model to predict our grocery data.
 
+###### Naina Sahiri
+presented a workshop session on machine learning introduction.
+
 
 ------------------------------------------------------------------------------------------------
 ##### February 8th
