@@ -138,5 +138,6 @@ Build the model to classify images. We were able to detect Vegetables but not fr
 ###### Sindhuja Vilipala
 Worked on image classification by using keras library. To train the model, I have tried with fit_generator.
 
-
+###### Anjana Thanguturi
+Working on build model as it is not working as expected while tested with different images.
 
