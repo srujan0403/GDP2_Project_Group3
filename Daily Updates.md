@@ -144,3 +144,6 @@ Worked on image classification by using keras library. To train the model, I hav
 ###### Anjana Thanguturi
 Working on build model as it is not working as expected while tested with different images.
 
+###### Naina Sahiri
+Need to test the model using training dataset.To make the model better, changes must be made.
+
