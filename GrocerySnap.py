@@ -36,3 +36,12 @@ prediction = model.predict(test_image)
 prediction_class = np.argmax(prediction, axis=1)
 prediction_label = [key for key, value in classes.items() if value == prediction_class[0]]
 print(f'The predicted class is: {prediction_label[0]}')
+
+import os
+import numpy as np
+import tensorflow as tf
+from tensorflow import keras
+import keras.preprocessing.image
+
+
+dataset_path = 'C:\\Users\\S546982\\PycharmProjects\\GrocerySnap\\Grocerydataset\\'
