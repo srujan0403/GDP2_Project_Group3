@@ -134,6 +134,7 @@ presented a workshop session on machine learning introduction.
 
 ###### Madhupriya Gundeti
 Worked on image classification presentation.
+
 ------------------------------------------------------------------------------------------------
 ##### February 8th
 ###### Srujan Kumar Reddy Yeruva
@@ -148,3 +149,5 @@ Working on build model as it is not working as expected while tested with differ
 ###### Naina Sahiri
 Need to test the model using training dataset.To make the model better, changes must be made.
 
+###### Madhupriya Gundeti
+Working on the construction model since when tested with various images, it does not behave as predicted.
