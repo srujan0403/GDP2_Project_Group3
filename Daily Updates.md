@@ -126,6 +126,9 @@ Attended workshop and presented tensorflow topic to class. Also, started working
 ###### Sindhuja Vilipala
 Attended workshop and presented keras topics. And working on image classification.
 
+###### Anjana Thanguturi
+Attended workshop and presented Matplotlib topics and started working on our model to predict our grocery data.
+
 
 ------------------------------------------------------------------------------------------------
 ##### February 8th
