@@ -163,3 +163,9 @@ Tried with keras model with different approaches to classify the image.
 ###### Srujan Kumar Reddy Yeruva
 Building a new model with PyTorch library.
 
+
+---------------------------------------------------------------------------------
+##### February 15th
+###### Srujan Kumar Reddy Yeruva
+Facing errors with new model. Also working on older model but the model is wrongly predicting the images.
+
