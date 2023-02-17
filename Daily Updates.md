@@ -158,5 +158,8 @@ Working on the construction model since when tested with various images, it does
 Tried with new model to detect grocery images but facing errors. Looking into the errors
 
 ###### Sindhuja Vilipala
-Treied with keras model with different approaches to classify the image.
+Tried with keras model with different approaches to classify the image.
+
+###### Srujan Kumar Reddy Yeruva
+Building a new model with PyTorch library.
 
