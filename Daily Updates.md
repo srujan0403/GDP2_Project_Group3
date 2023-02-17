@@ -156,3 +156,7 @@ Working on the construction model since when tested with various images, it does
 ##### February 13th
 ###### Anjana Thanguturi
 Tried with new model to detect grocery images but facing errors. Looking into the errors
+
+###### Sindhuja Vilipala
+Treied with keras model with different approaches to classify the image.
+
