@@ -169,3 +169,6 @@ Building a new model with PyTorch library.
 ###### Srujan Kumar Reddy Yeruva
 Facing errors with new model. Also working on older model but the model is wrongly predicting the images.
 
+###### Anjana Thanguturi
+Tried with old model to detect grocery images but the images are not predicting as expected.Working on that
+
