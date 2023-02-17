@@ -151,3 +151,8 @@ Need to test the model using training dataset.To make the model better, changes 
 
 ###### Madhupriya Gundeti
 Working on the construction model since when tested with various images, it does not behave as predicted.
+
+------------------------------------------------------------------------------------------------
+##### February 13th
+###### Anjana Thanguturi
+Tried with new model to detect grocery images but facing errors. Looking into the errors
