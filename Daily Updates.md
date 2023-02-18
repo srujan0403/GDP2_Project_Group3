@@ -180,6 +180,9 @@ Tried with old model to detect grocery images but the images are not predicting 
 ###### Sindhuja Vilipala
 As per instrcutor suggestion will take code from one of my team mate and did some changes in it accordingly.
 
+###### Naina Sahiri
+Still need to make some changes to predict the images correctly
+
 
 
 
