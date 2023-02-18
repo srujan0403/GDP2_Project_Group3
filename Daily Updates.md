@@ -174,5 +174,9 @@ Facing errors with new model. Also working on older model but the model is wrong
 ###### Anjana Thanguturi
 Tried with old model to detect grocery images but the images are not predicting as expected.Working on that
 
-###### Madhupriya Gundeti
-As the prediction was wrong need to update the code. Still facing the errors in the code.
+###### Sindhuja Vilipala
+As per instrcutor suggestion will take code from one of my team mate and did some changes in it accordingly.
+
+
+
+
