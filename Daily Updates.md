@@ -166,6 +166,9 @@ Building a new model with PyTorch library.
 ###### Madhupriya Gundeti
 Tried to dectect the images with new model but the prediction was unsuccessful.
 
+###### Naina Sahiri
+used the same model while experimenting with a different approach.
+
 ---------------------------------------------------------------------------------
 ##### February 15th
 ###### Srujan Kumar Reddy Yeruva
