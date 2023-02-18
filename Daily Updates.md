@@ -163,6 +163,8 @@ Tried with keras model with different approaches to classify the image.
 ###### Srujan Kumar Reddy Yeruva
 Building a new model with PyTorch library.
 
+###### Madhupriya Gundeti
+Tried to dectect the images with new model but the prediction was unsuccessful.
 
 ---------------------------------------------------------------------------------
 ##### February 15th
