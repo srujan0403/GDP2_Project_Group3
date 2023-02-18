@@ -56,3 +56,14 @@ cnn.compile(optimizer='rmsprop',loss='categorical_crossentropy', metrics=['accur
 training_history = cnn.fit(x=training_set,validation_data=test_set,epochs=40)
 
 cnn.save("trained_model.h5")
+
+
+history = model.fit_generator(train_generator,
+                              epochs=100,
+                              steps_per_epoch=100)
+history = model.fit_generator(train_generator,
+                              epochs=60,
+                              steps_per_epoch=100)
+history = model.fit_generator(train_generator,
+                              epochs=40,
+                              steps_per_epoch=100)
