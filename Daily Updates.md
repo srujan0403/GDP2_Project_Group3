@@ -205,3 +205,11 @@ We have a final model which is working well. Planning our future work.
 ###### Madhupriya Gundeti
 We tried new model with different layers to increase more accuracy of the images and we got the expected accuracy.
 
+###### Sindhuja Vilipala
+Need to search how to implement inventory with firebase. 
+
+
+
+
+
+
