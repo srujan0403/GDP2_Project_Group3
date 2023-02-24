@@ -1,4 +1,10 @@
-
+!pip install opendatasets
+import numpy as np
+import tensorflow as tf
+from keras.preprocessing.image import ImageDataGenerator
+import matplotlib.pyplot as plt
+import opendatasets as od
+od.download('https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition')
 
 cnn = tf.keras.models.Sequential()
 cnn.add(tf.keras.layers.Conv2D(filters=64,kernel_size=3,activation='relu',input_shape=[64,64,3]))
