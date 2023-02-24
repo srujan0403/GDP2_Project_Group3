@@ -191,6 +191,9 @@ Srujan suggested new model for our project with which we are able to detect the 
 ###### Madhupriya Gundeti
 One of our team member suggested new idea and instructor wants us to go with that model as it give more accuracy of the images.
 
+###### Sindhuja Vilipala
+One of our team members suggested a new model which we are able to detect the image. Now I need to check the accuracy of this new model by changing layers.
+
 ---------------------------------------------------------------------------------
 ##### February 22th
 ###### Anjana Thanguturi
