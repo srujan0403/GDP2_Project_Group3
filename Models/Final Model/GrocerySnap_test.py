@@ -1,4 +1,10 @@
+!pip install opendatasets
 
+import numpy as np
+import tensorflow as tf
+from keras.preprocessing.image import ImageDataGenerator
+import matplotlib.pyplot as plt
+import opendatasets as od
 
 
 test_set = tf.keras.utils.image_dataset_from_directory(
