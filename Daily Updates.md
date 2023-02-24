@@ -183,4 +183,7 @@ As per instrcutor suggestion will take code from one of my team mate and did som
 ###### Madhupriya Gundeti
 As the prediction is wrong we are updating the code. Still facing errors in the code
 
-
+---------------------------------------------------------------------------------
+##### February 20th
+###### Anjana Thanguturi
+Srujan suggested new model for our project with which we are able to detect the images correctly. Trying to implement same in my system.
