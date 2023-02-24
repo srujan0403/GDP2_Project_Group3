@@ -187,3 +187,8 @@ As the prediction is wrong we are updating the code. Still facing errors in the 
 ##### February 20th
 ###### Anjana Thanguturi
 Srujan suggested new model for our project with which we are able to detect the images correctly. Trying to implement same in my system.
+
+---------------------------------------------------------------------------------
+##### February 22th
+###### Anjana Thanguturi
+As per instructor suggestions, tried with different values to calculate the best testing accuracy and final the model
