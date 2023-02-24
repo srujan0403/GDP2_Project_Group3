@@ -192,3 +192,6 @@ Srujan suggested new model for our project with which we are able to detect the 
 ##### February 22th
 ###### Anjana Thanguturi
 As per instructor suggestions, tried with different values to calculate the best testing accuracy and final the model
+
+###### Srujan Kumar Reddy Yeruva
+We have a final model which is working well. Planning our future work.
