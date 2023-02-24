@@ -187,6 +187,7 @@ As the prediction is wrong we are updating the code. Still facing errors in the 
 ##### February 20th
 ###### Anjana Thanguturi
 Srujan suggested new model for our project with which we are able to detect the images correctly. Trying to implement same in my system.
+
 ###### Madhupriya Gundeti
 One of our team member suggested new idea and instructor wants us to go with that model as it give more accuracy of the images.
 
@@ -197,3 +198,7 @@ As per instructor suggestions, tried with different values to calculate the best
 
 ###### Srujan Kumar Reddy Yeruva
 We have a final model which is working well. Planning our future work.
+
+###### Madhupriya Gundeti
+We tried new model with different layers to increase more accuracy of the images and we got the expected accuracy.
+
