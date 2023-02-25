@@ -21,3 +21,20 @@ cnn.compile(optimizer='rmsprop',loss='categorical_crossentropy', metrics=['accur
 training_history = cnn.fit(x=training_set,validation_data=test_set,epochs=40)
 
 cnn.save("trained_model.h5")
+
+training_set = tf.keras.utils.image_dataset_from_directory(
+    '/content/fruit-and-vegetable-image-recognition/train',
+    labels="inferred",
+    label_mode="categorical",
+    class_names=None,
+    color_mode="rgb",
+    batch_size=32,
+    image_size=(64, 64),
+    shuffle=True,
+    seed=None,
+    validation_split=None,
+    subset=None,
+    interpolation="bilinear",
+    follow_links=False,
+    crop_to_aspect_ratio=False
+)
