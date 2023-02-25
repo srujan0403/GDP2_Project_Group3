@@ -194,6 +194,9 @@ One of our team member suggested new idea and instructor wants us to go with tha
 ###### Sindhuja Vilipala
 One of our team members suggested a new model which we are able to detect the image. Now I need to check the accuracy of this new model by changing layers.
 
+###### Naina Sahiri
+On the recommendation of one of the team members, We developed a model that could accurately predict photos.
+
 ---------------------------------------------------------------------------------
 ##### February 22th
 ###### Anjana Thanguturi
