@@ -211,6 +211,9 @@ We tried new model with different layers to increase more accuracy of the images
 ###### Sindhuja Vilipala
 Need to search how to implement inventory with firebase. 
 
+###### Naina Sahiri
+experimented with a new model that included multiple layers to improve the photos' accuracy.
+
 
 
 
