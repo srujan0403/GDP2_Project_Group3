@@ -233,3 +233,5 @@ Developed python code to be able to connect with Firebase DB and fetch results a
 ###### Madhupriya Gundeti
 python code was built and connected to the firebase and obtain the successful results.
 
+###### Anjana Thanguturi
+Able to connect our projecct to database and fetch details.
