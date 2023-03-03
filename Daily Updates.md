@@ -222,6 +222,11 @@ Prepared for mid exam 01 and presented our Grocery snap project.
 ###### Srujan Kumar Reddy Yeruva
 We have presented our project progress to the class as a part of mid exam 01
 
+-----------------------------------------------------------------------------
+##### March 3rd
+###### Srujan Kumar Reddy Yeruva
+Developed python code to be able to connect with Firebase DB and fetch results accordingly
+
 
 
 
