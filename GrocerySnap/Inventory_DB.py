@@ -36,3 +36,11 @@ ref.child('banana').set({
 
 
 ref = db.reference()
+result_index = np.where(predictions[0] == max(predictions[0]))
+fruit_veg_name = test_set.class_names[result_index[0][0]]
+quantity = ref.child(fruit_veg_name).child('quantity').get()
+
+
+print("It's a {}".format(fruit_veg_name))
+print(f"Number of {fruit_veg_name}'s: {quantity}")
+
