@@ -18,3 +18,21 @@ cred = credentials.Certificate("/content/drive/MyDrive/Firebase_key.json")
 firebase_admin.initialize_app(cred, {
     'databaseURL': 'https://grocery-inventory-cb542-default-rtdb.firebaseio.com/'
 })
+
+app = firebase_admin.get_app()
+
+
+ref.child('apple').set({
+    'name': 'apple',
+    'quantity': 10
+})
+
+ref.child('banana').set({
+    'name': 'banana',
+    'quantity': 25
+})
+
+
+
+
+ref = db.reference()
