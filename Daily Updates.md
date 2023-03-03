@@ -219,6 +219,9 @@ experimented with a new model that included multiple layers to improve the photo
 ###### Anjana Thanguturi
 Prepared for mid exam 01 and presented our Grocery snap project.
 
+###### Srujan Kumar Reddy Yeruva
+We have presented our project progress to the class as a part of mid exam 01
+
 
 
 
