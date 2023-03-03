@@ -222,6 +222,9 @@ Prepared for mid exam 01 and presented our Grocery snap project.
 ###### Srujan Kumar Reddy Yeruva
 We have presented our project progress to the class as a part of mid exam 01
 
+###### Madhupriya Gundeti
+Presented midterm on grocery snap till testing and training the model.
+
 -----------------------------------------------------------------------------
 ##### March 3rd
 ###### Srujan Kumar Reddy Yeruva
