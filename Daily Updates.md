@@ -230,6 +230,6 @@ Presented midterm on grocery snap till testing and training the model.
 ###### Srujan Kumar Reddy Yeruva
 Developed python code to be able to connect with Firebase DB and fetch results accordingly
 
-
-
+###### Madhupriya Gundeti
+python code was built and connected to the firebase and obtain the successful results.
 
