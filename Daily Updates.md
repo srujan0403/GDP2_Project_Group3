@@ -214,7 +214,10 @@ Need to search how to implement inventory with firebase.
 ###### Naina Sahiri
 experimented with a new model that included multiple layers to improve the photos' accuracy.
 
-
+---------------------------------------------------------------------------------
+##### February 27th
+###### Anjana Thanguturi
+Prepared for mid exam 01 and presented our Grocery snap project.
 
 
 
