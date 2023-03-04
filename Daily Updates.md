@@ -238,3 +238,11 @@ python code was built and connected to the firebase and obtain the successfu
 
 ###### Anjana Thanguturi
 Able to connect our projecct to database and fetch details.
+
+###### Sindhuja Vilipala
+We are sucessfully able to connect python code with firebase.
+
+
+
+
+
