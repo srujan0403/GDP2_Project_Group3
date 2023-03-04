@@ -57,3 +57,18 @@ quantity = ref.child(fruit_veg_name).child('quantity').get()
 print("It's a {}".format(fruit_veg_name))
 print(f"Number of {fruit_veg_name}'s: {quantity}")
 
+test_set = tf.keras.utils.image_dataset_from_directory(
+    '/content/fruit-and-vegetable-image-recognition/test',
+    labels="inferred",
+    label_mode="categorical",
+    class_names=None,
+    color_mode="rgb",
+    batch_size=32,
+    image_size=(64, 64),
+    shuffle=False,
+)
+
+image = tf.keras.preprocessing.image.load_img(image_path,target_size=(64,64))
+input_arr = tf.keras.preprocessing.image.img_to_array(image)
+input_arr = np.array([input_arr])  
+predictions = cnn.predict(input_arr)
