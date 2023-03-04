@@ -32,7 +32,20 @@ ref.child('banana').set({
     'quantity': 25
 })
 
+cnn = tf.keras.models.load_model('/content/drive/MyDrive/trained_model.h5')
 
+
+image_path = '/content/fruit-and-vegetable-image-recognition/test/banana/Image_1.jpg'
+
+
+img = cv2.imread(image_path)
+
+
+plt.imshow(img)
+plt.title('Test Image')
+plt.xticks([])
+plt.yticks([])
+plt.show()
 
 
 ref = db.reference()
