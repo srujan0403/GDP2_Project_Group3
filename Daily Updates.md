@@ -225,6 +225,9 @@ We have presented our project progress to the class as a part of mid exam 01
 ###### Madhupriya Gundeti
 Presented midterm on grocery snap till testing and training the model.
 
+###### Sindhuja Vilipala
+Presented midterm on grocery snap.
+
 -----------------------------------------------------------------------------
 ##### March 3rd
 ###### Srujan Kumar Reddy Yeruva
