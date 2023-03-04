@@ -228,6 +228,9 @@ Presented midterm on grocery snap till testing and training the model.
 ###### Sindhuja Vilipala
 Presented midterm on grocery snap.
 
+###### Naina Sahiri
+Prepared and Presented our Project -Grocery Snap for mid exam 01.
+
 -----------------------------------------------------------------------------
 ##### March 3rd
 ###### Srujan Kumar Reddy Yeruva
