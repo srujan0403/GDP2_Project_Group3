@@ -1,0 +1,9 @@
+from IPython.display import HTML
+import pandas as pd
+import cv2
+from google.colab import files
+ref = db.reference()
+dataset_path = "/content/drive/MyDrive/Dataset"
+uploaded_file = files.upload()
+file_name = list(uploaded_file.keys())[0]
+file_content = uploaded_file[file_name]
