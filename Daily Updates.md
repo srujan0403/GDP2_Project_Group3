@@ -248,5 +248,9 @@ We are sucessfully able to connect python code with firebase.
 ###### Naina Sahiri
 We integrated Firebase to our project successfully.
 
+------------------------------------------------------------------------
+##### March 13rd
+###### Srujan Kumar Reddy Yeruva
+Worked on SVM model to build ML model
 
 
