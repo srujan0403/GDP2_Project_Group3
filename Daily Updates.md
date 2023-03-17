@@ -256,6 +256,9 @@ Worked on SVM model to build ML model
 ###### Madhupriya Gundeti
 Need to develop a new model that should accept the image from the local folder.
 
+###### Anjana Thanguturi
+Client suggested us to try some models. Need to start working on that.
+
 
 ------------------------------------------------------------------------
 ##### March 15rd
