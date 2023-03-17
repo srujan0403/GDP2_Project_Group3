@@ -268,3 +268,5 @@ Worked on RNN model to build ML model but it is concluded that this model is not
 ###### Madhupriya Gundeti
 Worked on developing the model and successfully we can upload image from the local folder and identify wheather the image is present in database or not, if present it should display the quantity of the item.
 
+###### Anjana Thanguturi
+Tried LSTM model but facing some issues. Need to work on that and resolve it.
