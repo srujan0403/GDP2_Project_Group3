@@ -253,6 +253,8 @@ We integrated Firebase to our project successfully.
 ###### Srujan Kumar Reddy Yeruva
 Worked on SVM model to build ML model
 
+###### Madhupriya Gundeti
+Need to develop a new model that should accept the image from the local folder.
 
 
 ------------------------------------------------------------------------
