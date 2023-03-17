@@ -1,0 +1,43 @@
+import numpy as np
+import os
+from tensorflow.keras.preprocessing.image import load_img, img_to_array
+from keras.applications.vgg16 import VGG16, preprocess_input
+from sklearn.model_selection import train_test_split
+from sklearn.svm import SVC
+import joblib
+
+
+base_model = VGG16(weights='imagenet', include_top=False, input_shape=(224, 224, 3))
+
+
+def extract_features(img_path):
+    img = load_img(img_path, target_size=(224, 224))
+    x = img_to_array(img)
+    x = np.expand_dims(x, axis=0)
+    x = preprocess_input(x)
+    features = base_model.predict(x)
+    return features.flatten()
+
+
+X = []
+y = []
+for class_dir in os.listdir('/content/drive/MyDrive/GrocerySnap/Dataset/train'):
+    if os.path.isdir(os.path.join('/content/drive/MyDrive/GrocerySnap/Dataset/train', class_dir)):
+        for img_name in os.listdir(os.path.join('/content/drive/MyDrive/GrocerySnap/Dataset/train', class_dir)):
+            if img_name.endswith('.jpg'):
+                img_path = os.path.join('/content/drive/MyDrive/GrocerySnap/Dataset/train', class_dir, img_name)
+                features = extract_features(img_path)
+                X.append(features)
+                y.append(class_dir)
+
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+
+
+svm = SVC(kernel='linear')
+svm.fit(X_train, y_train)
+
+
+accuracy = svm.score(X_test, y_test)
+print('Accuracy:', accuracy)
+joblib.dump(svm, 'svm_model.joblib')
