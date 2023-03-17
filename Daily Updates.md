@@ -259,8 +259,7 @@ Need to develop a new model that should accept the image from the local folder.
 ###### Anjana Thanguturi
 Client suggested us to try some models. Need to start working on that.
 
-###### Sindhuja Vilipala
-Need to work on when the image is uploaded that image should recognize from the database and have to give the quantity of that particular item in the database.
+
 
 ------------------------------------------------------------------------
 ##### March 15rd
@@ -273,8 +272,7 @@ Worked on developing the model and successfully we can upload image from the loc
 ###### Anjana Thanguturi
 Tried LSTM model but facing some issues. Need to work on that and resolve it.
 
-###### Sindhuja Vilipala
-I have successfully achieved uploading the image and recognized the image from the database and it also updated the quantity of a particular item in the database.
+
 
 
 
