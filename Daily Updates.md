@@ -262,4 +262,6 @@ Need to develop a new model that should accept the image from the local folder.
 ###### Srujan Kumar Reddy Yeruva
 Worked on RNN model to build ML model but it is concluded that this model is not suitable for image dataset.
 
+###### Madhupriya Gundeti
+Worked on developing the model and successfully we can upload image from the local folder and identify wheather the image is present in database or not, if present it should display the quantity of the item.
 
