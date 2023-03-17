@@ -274,6 +274,9 @@ Worked on developing the model and successfully we can upload image from the loc
 ###### Anjana Thanguturi
 Tried LSTM model but facing some issues. Need to work on that and resolve it.
 
+###### Sindhuja Vilipala
+I have successfully achieved uploading the image and recognized the image from the database and it also updated the quantity of a particular item in the database.
+
 
 
 
