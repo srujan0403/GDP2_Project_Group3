@@ -254,3 +254,10 @@ We integrated Firebase to our project successfully.
 Worked on SVM model to build ML model
 
 
+
+------------------------------------------------------------------------
+##### March 15rd
+###### Srujan Kumar Reddy Yeruva
+Worked on RNN model to build ML model but it is concluded that this model is not suitable for image dataset.
+
+
