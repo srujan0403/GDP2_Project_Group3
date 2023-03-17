@@ -7,3 +7,34 @@ dataset_path = "/content/drive/MyDrive/Dataset"
 uploaded_file = files.upload()
 file_name = list(uploaded_file.keys())[0]
 file_content = uploaded_file[file_name]
+
+with open(file_name, 'wb') as f:
+    f.write(file_content)
+file_path = os.path.abspath(file_name)
+cnn = tf.keras.models.load_model('/content/drive/MyDrive/trained_model.h5')
+
+img = cv2.imread(file_path)
+test_set = tf.keras.utils.image_dataset_from_directory(
+    '/content/drive/MyDrive/Dataset/test',
+    labels="inferred",
+    label_mode="categorical",
+    class_names=None,
+    color_mode="rgb",
+    batch_size=32,
+    image_size=(64, 64),
+    shuffle=False,
+)
+
+image = tf.keras.preprocessing.image.load_img(file_path, target_size=(64,64))
+input_arr = tf.keras.preprocessing.image.img_to_array(image)
+input_arr = np.array([input_arr])  
+predictions = cnn.predict(input_arr)
+
+
+result_index = np.where(predictions[0] == max(predictions[0]))
+fruit_veg_name = test_set.class_names[result_index[0][0]]
+quantity = ref.child(fruit_veg_name).child('quantity').get()
+
+
+print("It's a {}".format(fruit_veg_name))
+print(f"Number of {fruit_veg_name}'s: {quantity}")
