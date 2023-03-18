@@ -280,6 +280,9 @@ Tried LSTM model but facing some issues. Need to work on that and resolve it.
 ###### Sindhuja Vilipala
 I have successfully achieved uploading the image and recognized the image from the database and it also updated the quantity of a particular item in the database.
 
+###### Naina Sahiri
+Developed a responsive UI for our web page.
+
 
 
 
