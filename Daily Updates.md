@@ -262,6 +262,9 @@ Client suggested us to try some models. Need to start working on that.
 ###### Sindhuja Vilipala
 Need to work on when the image is uploaded that image should recognize from the database and have to give the quantity of that particular item in the database.
 
+###### Naina Sahiri
+Research on AWS, Azure, and Google for deploying applications in web development.
+
 
 ------------------------------------------------------------------------
 ##### March 15rd
