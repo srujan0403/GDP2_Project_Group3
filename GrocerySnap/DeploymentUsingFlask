@@ -1,0 +1,35 @@
+!pip install flask
+!pip install pyngrok
+from flask import Flask, jsonify, request
+
+app = Flask(__name__)
+
+# Define a route for the API
+@app.route('/predict', methods=['POST'])
+def predict():
+    # Parse the input data from the request
+    data = request.get_json()
+    X = [data['rooms']]
+
+    # Use the trained model to make a prediction
+    y_pred = model.predict(X)
+
+    # Return the prediction as a JSON response
+    return jsonify({'prediction': y_pred.tolist()})
+from pyngrok import ngrok
+
+# Start ngrok tunnel
+public_url = ngrok.connect(port='5000')
+
+# Print the public URL
+print('Public URL:', public_url)
+import requests
+
+# Define the input data
+data = {'rooms': 5}
+
+# Send a POST request to the API
+response = requests.post(public_url + '/predict', json=data)
+
+# Print the response
+print(response.json())
