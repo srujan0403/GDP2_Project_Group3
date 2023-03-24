@@ -287,6 +287,9 @@ Developed a responsive UI for our web page.
 ###### Anjana Thanguturi
 Presented our learnings on machine learning to the class in workshop.
 
+###### Sindhuja Vilipala
+Presented our learnings on machine learning to the class in workshop.
+
 
 ------------------------------------------------------------------------
 ##### March 22nd
