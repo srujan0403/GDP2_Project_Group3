@@ -288,5 +288,9 @@ Developed a responsive UI for our web page.
 Presented our learnings on machine learning to the class in workshop.
 
 
+------------------------------------------------------------------------
+##### March 22nd
+###### Anjana Thanguturi
+As LSTM not working, need to work on other models like shuffleNet.
 
 
