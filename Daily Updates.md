@@ -293,6 +293,9 @@ Presented our learnings on machine learning to the class in workshop.
 ###### Madhupriya Gundeti
 Learned new techniques and presented them in workshop.
 
+###### Srujan Kumar Reddy Yeruva
+Presented the class for workshop 2 and also started working on new ML models
+
 ------------------------------------------------------------------------
 ##### March 22nd
 ###### Anjana Thanguturi
