@@ -290,6 +290,8 @@ Presented our learnings on machine learning to the class in workshop.
 ###### Sindhuja Vilipala
 Presented our learnings on machine learning to the class in workshop.
 
+###### Madhupriya Gundeti
+Learned new techniques and presented them in workshop.
 
 ------------------------------------------------------------------------
 ##### March 22nd
