@@ -265,7 +265,6 @@ Need to work on when the image is uploaded that image should recognize from the 
 ###### Naina Sahiri
 Research on AWS, Azure, and Google for deploying applications in web development.
 
-
 ------------------------------------------------------------------------
 ##### March 15rd
 ###### Srujan Kumar Reddy Yeruva
@@ -283,7 +282,10 @@ I have successfully achieved uploading the image and recognized the image from t
 ###### Naina Sahiri
 Developed a responsive UI for our web page.
 
-
+------------------------------------------------------------------------
+##### March 20th
+###### Anjana Thanguturi
+Presented our learnings on machine learning to the class in workshop.
 
 
 
