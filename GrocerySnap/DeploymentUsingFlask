@@ -33,3 +33,58 @@ response = requests.post(public_url + '/predict', json=data)
 
 # Print the response
 print(response.json())
+
+
+
+
+from flask import Flask, render_template, request
+from firebase_admin import credentials, initialize_app, db
+import cv2
+import numpy as np
+import tensorflow as tf
+import os
+import firebase_admin
+
+app = Flask(__name__)
+
+# Initialize Firebase
+cred = credentials.Certificate('/content/grocery-inventory-cb542-firebase-adminsdk-zvr11-28b1f82a85.json')
+try:
+    firebase_admin.get_app()
+except ValueError:
+    firebase_admin.initialize_app(cred, {'databaseURL': 'https://grocery-inventory-cb542-default-rtdb.firebaseio.com/'})
+ref = db.reference()
+
+# Load the trained model
+cnn = tf.keras.models.load_model('trained_model.h5')
+
+@app.route('/')
+def index():
+    return render_template('index.html')
+
+@app.route('/upload', methods=['POST'])
+def upload():
+    # Get the uploaded image file
+    file = request.files['file']
+
+    # Save the uploaded file to disk
+    file_path = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
+    file.save(file_path)
+
+    # Load the image and preprocess it for the model
+    img = cv2.imread(file_path)
+    image = tf.keras.preprocessing.image.load_img(file_path, target_size=(64,64))
+    input_arr = tf.keras.preprocessing.image.img_to_array(image)
+    input_arr = np.array([input_arr])  
+
+    # Perform the image search
+    predictions = cnn.predict(input_arr)
+    result_index = np.where(predictions[0] == max(predictions[0]))
+    fruit_veg_name = test_set.class_names[result_index[0][0]]
+    quantity = ref.child(fruit_veg_name).child('quantity').get()
+
+    return render_template('result.html', fruit_veg_name=fruit_veg_name, quantity=quantity)
+
+if __name__ == '__main__':
+    app.config['UPLOAD_FOLDER'] = 'uploads'
+    app.run(debug=True)
