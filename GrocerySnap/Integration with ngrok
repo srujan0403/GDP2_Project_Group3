@@ -1,0 +1,17 @@
+!pip install jupyter_dash
+import plotly.express as px
+from jupyter_dash import JupyterDash
+import dash_core_components as dcc
+import dash_html_components as html 
+from dash.dependencies import Input, Output
+!pip install plotly dash jupyter_dash
+df = px.data.tips()
+if __name__ == '__snap.py__':
+    app.run_server(debug=True)
+    !pip install pyngork
+    from pyngrok import ngrok
+    ! ngrok authtoken 2N12ngU4amnvEPuRsKB4ke4555p_3zkMM9vS9ekB7tnTaiBJa
+    public_url = ngrok.connect(port = '8050')
+ssh_url = ngrok.connect(22, "tcp")
+public_url
+ngrok.kill()
