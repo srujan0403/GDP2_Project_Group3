@@ -296,6 +296,9 @@ Learned new techniques and presented them in workshop.
 ###### Srujan Kumar Reddy Yeruva
 Presented the class for workshop 2 and also started working on new ML models
 
+###### Naina Sahiri
+presented the class with the workshop and made some changes in flask code.
+
 ------------------------------------------------------------------------
 ##### March 22nd
 ###### Anjana Thanguturi
