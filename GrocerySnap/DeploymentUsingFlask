@@ -88,3 +88,47 @@ def upload():
 if __name__ == '__main__':
     app.config['UPLOAD_FOLDER'] = 'uploads'
     app.run(debug=True)
+
+import pyrebase
+from flask import Flask, render_template, request
+
+app = Flask(__name__)
+
+# configure Firebase
+config = {
+    "apiKey": "YOUR_API_KEY",
+    "authDomain": "YOUR_AUTH_DOMAIN",
+    "databaseURL": "YOUR_DATABASE_URL",
+    "projectId": "YOUR_PROJECT_ID",
+    "storageBucket": "YOUR_STORAGE_BUCKET",
+    "messagingSenderId": "YOUR_MESSAGING_SENDER_ID",
+    "appId": "YOUR_APP_ID"
+}
+firebase = pyrebase.initialize_app(config)
+db = firebase.database()
+
+# define your routes and functions
+@app.route("/")
+def home():
+    return render_template("home.html")
+
+@app.route("/data", methods=["GET", "POST"])
+def data():
+    if request.method == "POST":
+        # do something with the submitted form data
+        name = request.form["name"]
+        email = request.form["email"]
+        message = request.form["message"]
+        # add data to Firebase database
+        db.child("users").push({
+            "name": name,
+            "email": email,
+            "message": message
+        })
+        return render_template("data_confirmation.html", name=name)
+    else:
+        return render_template("data.html")
+
+# run the app
+if __name__ == "__main__":
+    app.run(debug=True)
