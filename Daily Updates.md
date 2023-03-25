@@ -304,4 +304,6 @@ As LSTM not working, need to work on other models like shuffleNet.
 ###### Srujan Kumar Reddy Yeruva
 Tried VGG models but each epoch is taking more than 30 minutes but able to build ML model using MobileNet
 
+###### Sindhuja Vilipala
+Tried on integrate web application with google colab using ngrok
 
