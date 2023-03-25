@@ -310,3 +310,6 @@ Tried VGG models but each epoch is taking more than 30 minutes but able to build
 ###### Sindhuja Vilipala
 Tried on integrate web application with google colab using ngrok
 
+##### Naina Sahiri
+Need to host the web application without errors.
+
