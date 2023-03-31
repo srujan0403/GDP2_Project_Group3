@@ -336,3 +336,7 @@ Worked on deploying our code on ngrok server to host our app locally
 ###### Anjana Thanguturi
 Worked on GoogLeNet model. It is very slow processing So we are continuing with CNN model
 
+###### Madhupriya Gundeti
+Worked on trained model with different values.
+
+
