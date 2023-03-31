@@ -329,3 +329,7 @@ Worked on integrating web application with google colab using ngrok
 ##### March 29th
 ###### Srujan Kumar Reddy Yeruva
 Worked on deploying our code on ngrok server to host our app locally
+
+###### Anjana Thanguturi
+Worked on GoogLeNet model. It is very slow processing So we are continuing with CNN model
+
