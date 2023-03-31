@@ -320,3 +320,9 @@ Worked on shuffleNet model. As it is not provided by Keras need to work on other
 
 ###### Srujan Kumar Reddy Yeruva
 Worked on ResNet model. Gives very less accuracy
+
+
+--------------------------------------------------------------------------
+##### March 29th
+###### Srujan Kumar Reddy Yeruva
+Worked on deploying our code on ngrok server to host our app locally
