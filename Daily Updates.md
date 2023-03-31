@@ -324,6 +324,9 @@ Worked on ResNet model. Gives very less accuracy
 ###### Sindhuja Vilipala
 Worked on integrating web application with google colab using ngrok
 
+###### Madhupriya Gundeti
+Planned to integrate web application with the google colab using ngrok.
+
 
 --------------------------------------------------------------------------
 ##### March 29th
