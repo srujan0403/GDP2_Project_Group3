@@ -321,6 +321,9 @@ Worked on shuffleNet model. As it is not provided by Keras need to work on other
 ###### Srujan Kumar Reddy Yeruva
 Worked on ResNet model. Gives very less accuracy
 
+###### Sindhuja Vilipala
+Worked on integrating web application with google colab using ngrok
+
 
 --------------------------------------------------------------------------
 ##### March 29th
