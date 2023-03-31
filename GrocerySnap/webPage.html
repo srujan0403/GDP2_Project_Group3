@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+  <head>
+    <title>Fruit and Vegetable Classifier</title>
+  </head>
+  <body>
+    <div class="container">
+    <h1>Please Upload the Image That Needs to be Classify</h1>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+      <input type="file" name="image" class="img-fluid" alt="Responsive image">
+      <!-- Create larger, blue camera icon using Font Awesome and Bootstrap -->
+      <i class="fa fa-camera-retro fa-5x"></i>
+      <input type="submit" value="Classify">
+    </form>
+  </div>
+  </body>
+</html>
