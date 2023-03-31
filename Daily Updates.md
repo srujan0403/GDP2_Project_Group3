@@ -342,4 +342,6 @@ Worked on GoogLeNet model. It is very slow processing So we are continuing with 
 ###### Madhupriya Gundeti
 Worked on trained model with different values.
 
+###### Naina Sahiri
+Need to research latex and making the animation of page.
 
