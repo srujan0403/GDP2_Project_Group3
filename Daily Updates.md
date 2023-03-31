@@ -317,3 +317,6 @@ Need to host the web application without errors.
 ##### March 27th
 ###### Anjana Thanguturi
 Worked on shuffleNet model. As it is not provided by Keras need to work on other models
+
+###### Srujan Kumar Reddy Yeruva
+Worked on ResNet model. Gives very less accuracy
