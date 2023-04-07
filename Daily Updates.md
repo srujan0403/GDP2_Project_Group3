@@ -361,3 +361,6 @@ Worked on update quantity functionality to the webpage.
 ##### April 5th
 ###### Anjana Thanguturi
 Need to work on updating database from our UI page and later have to help teammates for preparing the article.
+
+###### Srujan Kumar Reddy Yeruva
+Faced an issue with updating database which is resolved now
