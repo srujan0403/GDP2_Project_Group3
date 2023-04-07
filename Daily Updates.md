@@ -339,7 +339,7 @@ Worked on deploying our code on ngrok server to host our app locally
 ###### Anjana Thanguturi
 Worked on GoogLeNet model. It is very slow processing So we are continuing with CNN model
 
-###### Sindhuja Vilipal
+###### Sindhuja Vilipala
 Worked on trained model by chainging different layer values and tested the accuracy
 
 ###### Madhupriya Gundeti
@@ -356,6 +356,8 @@ Worked on suggestions of the instructor and finally we came to a conclusion that
 ###### Srujan Kumar Reddy Yeruva
 Worked on update quantity functionality to the webpage.
 
+###### Sindhuja Vilipala
+Worked on an Article of our previous project Speaking Calculator.
 
 ------------------------------------------------------------------------
 ##### April 5th
