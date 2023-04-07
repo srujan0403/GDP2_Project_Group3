@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>GrocerySnap</title>
+    {% if success_msg %}
+    <p class="success-message">{{ success_msg }}</p>
+    {% endif %}
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #d6e4f0;
+        }
+
+        .banner {
+            text-align: center;
+            background-color: #fff;
+            color: #1E5162;
+            padding: 20px 0;
+        }
+
+
+        h1 {
+            text-align: center;
+            color: #006699;
+        }
+
+        form {
+            max-width: 500px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        input[type=file] {
+            display: block;
+            margin: 0 auto 10px;
+            width: 100%;
+            border: none;
+            outline: none;
+            font-size: 16px;
+            padding: 10px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+
+        input[type=file]:hover,
+        input[type=file]:focus {
+            background-color: #e6e6e6;
+        }
+
+        input[type=submit] {
+            background-color: #006699;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        input[type=submit]:hover {
+            background-color: #004d66;
+        }
+
+        input[type=text] {
+            display: block;
+            margin: 0 auto 10px;
+            width: 100%;
+            border: none;
+            outline: none;
+            font-size: 16px;
+            padding: 10px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+
+        input[type=text]:hover,
+        input[type=text]:focus {
+            background-color: #e6e6e6;
+        }
+
+       
+    .success-message {
+        color: green;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+
+    </style>
+</head>
+<body>
+        <div class="banner">
+        <h1 style="font-size: 40px; font-weight: bold;">GrocerySnap</h1>
+        </div>
+
+
+      
+  
+      <form action="/upload" method="post" enctype="multipart/form-data">
+          <input type="file" name="file" accept="image/*">
+          <input type="submit" value="Submit">
+      </form>
+
+    
+    <form action="/update" method="post">
+        <label for="fruit_veg_name">Name:</label>
+        <input type="text" name="fruit_veg_name" id="fruit_veg_name">
+        <br>
+        <label for="new_quantity">Quantity:</label>
+        <input type="text" name="new_quantity" id="new_quantity">
+        <br>
+        <input type="submit" value="Update">
+    </form>
+</body>
+</html>
