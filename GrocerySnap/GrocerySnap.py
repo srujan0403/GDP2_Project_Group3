@@ -55,7 +55,19 @@ def classify_image(file_path):
     quantity = ref.child(fruit_veg_name).child('quantity').get()
     return fruit_veg_name, quantity
 
-
+def update_quantity(fruit_veg_name, new_quantity):
+    
+    try:
+        cred = credentials.Certificate("/content/drive/MyDrive/GrocerySnap/Final/Firebase_key.json")
+        firebase_admin.initialize_app(cred, {
+            'databaseURL': 'https://grocery-inventory-cb542-default-rtdb.firebaseio.com/'
+        }, name='grocery_app')
+        app = firebase_admin.get_app()
+    except ValueError as e:
+        print("Firebase app already initialized:", e)
+        app = firebase_admin.get_app(name='grocery_app')
+    ref = db.reference(app=app) 
+    ref.child(fruit_veg_name).update({'quantity': new_quantity})
 
 @app.route('/')
 def index():
@@ -79,6 +91,22 @@ def upload():
         
         return render_template('result.html', fruit_veg_name=fruit_veg_name, quantity=quantity)     
 
+  @app.route('/update', methods=['POST'])
+def update():
+    if request.method == 'POST':
+        
+        fruit_veg_name = request.form['fruit_veg_name']
+        new_quantity = request.form['new_quantity']
+
+        
+        update_quantity(fruit_veg_name, new_quantity)
+
+        
+        success_msg = f"Successfully updated the quantity of {fruit_veg_name} to {new_quantity}."
+
+        
+        return redirect(url_for('index', success_msg=success_msg)) 
+   
 
 if __name__ == '__main__':
     
