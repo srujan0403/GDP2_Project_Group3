@@ -366,3 +366,7 @@ Need to work on updating database from our UI page and later have to help teamma
 
 ###### Srujan Kumar Reddy Yeruva
 Faced an issue with updating database which is resolved now
+
+###### Sindhuja Vilipala
+Worked on an article on References using citations and footnotes on Overleaf.
+
