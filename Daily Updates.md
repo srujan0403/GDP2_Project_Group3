@@ -351,4 +351,10 @@ Need to research latex and making the animation of page.
 ------------------------------------------------------------------------
 ##### April 3rd
 ###### Anjana Thanguturi
-Worked on suggestions of the instructor and finally we came to a conclusion that our original model is best compared to other models
+Worked on suggestions of the instructor and finally we came to a conclusion that our original model is best compared to other models.
+
+
+------------------------------------------------------------------------
+##### April 5th
+###### Anjana Thanguturi
+Need to work on updating database from our UI page and later have to help teammates for preparing the article.
