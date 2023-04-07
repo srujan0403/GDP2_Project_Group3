@@ -348,3 +348,7 @@ Worked on trained model with different values.
 ###### Naina Sahiri
 Need to research latex and making the animation of page.
 
+------------------------------------------------------------------------
+##### April 3rd
+###### Anjana Thanguturi
+Worked on suggestions of the instructor and finally we came to a conclusion that our original model is best compared to other models
