@@ -353,6 +353,9 @@ Need to research latex and making the animation of page.
 ###### Anjana Thanguturi
 Worked on suggestions of the instructor and finally we came to a conclusion that our original model is best compared to other models.
 
+###### Srujan Kumar Reddy Yeruva
+Worked on update quantity functionality to the webpage.
+
 
 ------------------------------------------------------------------------
 ##### April 5th
