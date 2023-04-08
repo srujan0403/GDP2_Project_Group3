@@ -373,3 +373,6 @@ Faced an issue with updating database which is resolved now
 ###### Sindhuja Vilipala
 Worked on an article on References using citations and footnotes on Overleaf.
 
+###### Madhupriya Gundeti
+Started documenting and facing errors while inserting images.
+
