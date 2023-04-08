@@ -376,3 +376,7 @@ Worked on an article on References using citations and footnotes on Overleaf.
 ###### Madhupriya Gundeti
 Started documenting and facing errors while inserting images.
 
+------------------------------------------------------------------------
+##### April 7th
+###### Madhupriya Gundeti
+Need to work on inseting an image in the  documentation and citations.
