@@ -362,6 +362,9 @@ Worked on an Article of our previous project Speaking Calculator.
 ###### Madhupriya Gundeti
 Started working on the Article for the Grocery Snap.
 
+###### Naina Sahiri
+For the speaking calculator project, I have written an article in MIKTeX.
+
 ------------------------------------------------------------------------
 ##### April 5th
 ###### Anjana Thanguturi
