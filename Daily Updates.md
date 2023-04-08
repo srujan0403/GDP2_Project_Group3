@@ -359,6 +359,9 @@ Worked on update quantity functionality to the webpage.
 ###### Sindhuja Vilipala
 Worked on an Article of our previous project Speaking Calculator.
 
+###### Madhupriya Gundeti
+Started working on the Article for the Grocery Snap.
+
 ------------------------------------------------------------------------
 ##### April 5th
 ###### Anjana Thanguturi
