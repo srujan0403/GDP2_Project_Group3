@@ -379,6 +379,9 @@ Worked on an article on References using citations and footnotes on Overleaf.
 ###### Madhupriya Gundeti
 Started documenting and facing errors while inserting images.
 
+###### Naina Sahiri
+Researched for citations of references required for the machine learning project article.
+
 ------------------------------------------------------------------------
 ##### April 7th
 ###### Madhupriya Gundeti
