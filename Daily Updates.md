@@ -386,3 +386,6 @@ Researched for citations of references required for the machine learning project
 ##### April 7th
 ###### Madhupriya Gundeti
 Need to work on inseting an image in the  documentation and citations.
+
+###### Naina Sahiri
+I have included the references with the citations in Grocery Snap.
