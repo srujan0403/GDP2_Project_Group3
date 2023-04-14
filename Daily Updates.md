@@ -400,3 +400,8 @@ Presented Mid2 to the class. Started working on project paper
 ##### April 12th
 ###### Srujan Kumar Reddy Yeruva
 Working on project paper
+
+------------------------------------------------------------------
+##### April 14th
+###### Srujan Kumar Reddy Yeruva
+Working on project paper
