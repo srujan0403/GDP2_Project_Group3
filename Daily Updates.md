@@ -395,6 +395,8 @@ I have included the references with the citations in Grocery Snap.
 ###### Srujan Kumar Reddy Yeruva
 Presented Mid2 to the class. Started working on project paper
 
+###### Anjana Thanguturi
+Prepared for Mid2 and presented our project in class
 
 ----------------------------------------------------------------------
 ##### April 12th
