@@ -410,3 +410,6 @@ Working on project paper along with sindhuja
 ##### April 14th
 ###### Srujan Kumar Reddy Yeruva
 Working on project paper
+
+###### Anjana Thanguturi
+Working on project paper along with sindhuja.Connected with Kevin to explain our project and took inputs from him which we need to implement.
