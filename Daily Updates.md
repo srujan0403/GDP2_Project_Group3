@@ -409,6 +409,9 @@ Working on project paper
 ###### Anjana Thanguturi
 Working on project paper along with sindhuja
 
+###### Madhupriya Gundeti
+Worked on article and how to insert an image.
+
 ------------------------------------------------------------------
 ##### April 14th
 ###### Srujan Kumar Reddy Yeruva
