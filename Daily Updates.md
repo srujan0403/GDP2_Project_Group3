@@ -403,6 +403,9 @@ Prepared for Mid2 and presented our project in class
 ###### Srujan Kumar Reddy Yeruva
 Working on project paper
 
+###### Anjana Thanguturi
+Working on project paper along with sindhuja
+
 ------------------------------------------------------------------
 ##### April 14th
 ###### Srujan Kumar Reddy Yeruva
