@@ -398,6 +398,9 @@ Presented Mid2 to the class. Started working on project paper
 ###### Anjana Thanguturi
 Prepared for Mid2 and presented our project in class
 
+###### Madhupriya Gundeti
+Presented mid term presentation of our project.
+
 ----------------------------------------------------------------------
 ##### April 12th
 ###### Srujan Kumar Reddy Yeruva
