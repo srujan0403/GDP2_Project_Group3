@@ -394,3 +394,9 @@ I have included the references with the citations in Grocery Snap.
 ##### April 10th
 ###### Srujan Kumar Reddy Yeruva
 Presented Mid2 to the class. Started working on project paper
+
+
+----------------------------------------------------------------------
+##### April 12th
+###### Srujan Kumar Reddy Yeruva
+Working on project paper
