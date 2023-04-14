@@ -401,6 +401,9 @@ Prepared for Mid2 and presented our project in class
 ###### Madhupriya Gundeti
 Presented mid term presentation of our project.
 
+###### Naina Sahiri
+presented the class with the Mid 2 PPT
+
 ----------------------------------------------------------------------
 ##### April 12th
 ###### Srujan Kumar Reddy Yeruva
