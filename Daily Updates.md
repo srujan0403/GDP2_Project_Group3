@@ -421,6 +421,9 @@ Worked on article and how to insert an image.
 ###### Naina Sahiri
 Need to include images and citations for the article.
 
+###### Sindhuja Vilipala
+Working on previous project article.
+
 ------------------------------------------------------------------
 ##### April 14th
 ###### Srujan Kumar Reddy Yeruva
