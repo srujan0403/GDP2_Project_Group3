@@ -404,6 +404,9 @@ Presented mid term presentation of our project.
 ###### Naina Sahiri
 presented the class with the Mid 2 PPT
 
+###### Sindhuja Vilipala
+Prepared for mid2 and presented in the class and working on Article.
+
 ----------------------------------------------------------------------
 ##### April 12th
 ###### Srujan Kumar Reddy Yeruva
