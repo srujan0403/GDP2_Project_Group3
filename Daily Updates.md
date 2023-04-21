@@ -447,7 +447,8 @@ Completed Speaking Calculator project article but need to change some changes ac
 ###### Srujan Kumar Reddy Yeruva
 Working on project papers and got them reviewed by Instructor
 
-
+###### Anjana Thanguturi
+Worked on project paper with teammates and got reviewed by instructor.
 
 ------------------------------------------------------------------------------------------------
 
