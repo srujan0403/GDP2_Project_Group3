@@ -450,6 +450,9 @@ Working on project papers and got them reviewed by Instructor
 ###### Anjana Thanguturi
 Worked on project paper with teammates and got reviewed by instructor.
 
+###### Naina Sahiri
+ Worked on writing a Grocery Snap article.
+
 ------------------------------------------------------------------------------------------------
 
 ##### April 19th
