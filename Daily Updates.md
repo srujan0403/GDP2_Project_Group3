@@ -452,28 +452,6 @@ Worked on project paper with teammates and got reviewed by instructor.
 
 ###### Naina Sahiri
  Worked on writing a Grocery Snap article.
-
-------------------------------------------------------------------------------------------------
-
-##### April 19th
-###### Srujan Kumar Reddy Yeruva
-Making changes to paper as suggested by Instructor
-
-###### Anjana Thanguturi
-Made changes based on instructor suggestions and got reviewed by instructor.
-
-###### Naina Sahiri
-Added development module in the article(Grocery Snap).
-
-
-----------------------------------------------------------------------
-
-##### April 21st
-###### Srujan Kumar Reddy Yeruva
-Making changes to paper as suggested by Instructor
-
-###### Anjana Thanguturi
-Made changes based on instructor suggestions and got reviewed by Kevin.
-
-###### Naina Sahiri
-Added citation for the literature review in the grocery snap article.
+ 
+###### Madhupriya Gundeti
+Worked on writing the article.
