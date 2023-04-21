@@ -474,3 +474,6 @@ Making changes to paper as suggested by Instructor
 
 ###### Anjana Thanguturi
 Made changes based on instructor suggestions and got reviewed by Kevin.
+
+###### Naina Sahiri
+Added citation for the literature review in the grocery snap article.
