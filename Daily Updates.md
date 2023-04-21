@@ -456,6 +456,9 @@ Worked on project paper with teammates and got reviewed by instructor.
 ###### Madhupriya Gundeti
 Worked on writing the article.
 
+###### Sindhuja Vilipala
+Worked on previous project article speaking calculator.
+
 ----------------------------------------------------------------------------------------------
 
 ##### April 19th
