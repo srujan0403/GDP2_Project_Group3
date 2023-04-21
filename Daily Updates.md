@@ -455,3 +455,33 @@ Worked on project paper with teammates and got reviewed by instructor.
  
 ###### Madhupriya Gundeti
 Worked on writing the article.
+
+----------------------------------------------------------------------------------------------
+
+##### April 19th
+###### Srujan Kumar Reddy Yeruva
+Making changes to paper as suggested by Instructor
+
+###### Anjana Thanguturi
+Made changes based on instructor suggestions and got reviewed by instructor.
+
+###### Naina Sahiri
+Added development module in the article(Grocery Snap).
+
+###### Madhupriya Gundeti
+Changed the format of the article as discussed with the professor.
+
+
+----------------------------------------------------------------------
+
+##### April 21st
+###### Srujan Kumar Reddy Yeruva
+Making changes to paper as suggested by Instructor
+
+###### Anjana Thanguturi
+Made changes based on instructor suggestions and got reviewed by Kevin.
+
+###### Naina Sahiri
+Added citation for the literature review in the grocery snap article.
+
+
