@@ -440,3 +440,13 @@ ought to complete the project article for draft
 
 ###### Sindhuja Vilipala
 Completed Speaking Calculator project article but need to change some changes according to instructor advice.
+
+----------------------------------------------------------------------------------------------
+
+##### April 14th
+###### Srujan Kumar Reddy Yeruva
+Working on project papers and got them reviewed by Instructor
+
+
+
+------------------------------------------------------------------------------------------------
