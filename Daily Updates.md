@@ -474,6 +474,8 @@ Added development module in the article(Grocery Snap).
 ###### Madhupriya Gundeti
 Changed the format of the article as discussed with the professor.
 
+###### Sindhuja Vilipala
+Made changes on article according to instructor advice.
 
 ----------------------------------------------------------------------
 
