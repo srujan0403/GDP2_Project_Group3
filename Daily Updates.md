@@ -492,4 +492,8 @@ Added citation for the literature review in the grocery snap article.
 ###### Madhupriya Gundeti
 Showed our article to the professor and kevin.
 
+###### Sindhuja Vilipala 
+Making changes to article according to instructor advice.
+
+
 
