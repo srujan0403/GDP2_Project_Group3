@@ -443,10 +443,14 @@ Completed Speaking Calculator project article but need to change some changes ac
 
 ----------------------------------------------------------------------------------------------
 
-##### April 14th
+##### April 17th
 ###### Srujan Kumar Reddy Yeruva
 Working on project papers and got them reviewed by Instructor
 
 
 
 ------------------------------------------------------------------------------------------------
+
+##### April 19th
+###### Srujan Kumar Reddy Yeruva
+Making changes to paper as suggested by Instructor
