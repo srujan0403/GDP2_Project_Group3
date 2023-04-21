@@ -462,6 +462,9 @@ Making changes to paper as suggested by Instructor
 ###### Anjana Thanguturi
 Made changes based on instructor suggestions and got reviewed by instructor.
 
+###### Naina Sahiri
+Added development module in the article(Grocery Snap).
+
 
 ----------------------------------------------------------------------
 
