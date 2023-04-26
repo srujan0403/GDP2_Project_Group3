@@ -8,7 +8,7 @@
 4. [Client Details](https://github.com/srujan0403/GDP2_Project_Group3#client)
 5. [Team Members](https://github.com/srujan0403/GDP2_Project_Group3#team-members)
 6. [Team Goals](https://github.com/srujan0403/GDP2_Project_Group3#team-goals)
-7. [Features of Speaking Calculator](https://github.com/srujan0403/GDP2_Project_Group3#features-of-speaking-calculator)
+7. [Features of Grocery Snap](https://github.com/srujan0403/GDP2_Project_Group3#features-of-grocery-snap)
 8. [Team Bio's](https://github.com/srujan0403/GDP2_Project_Group3#team-bios)
 9. [Wiki Page](https://github.com/srujan0403/GDP2_Project_Group3/wiki)
 10. [Daily Updates Page](https://github.com/srujan0403/GDP2_Project_Group3/edit/main/Daily%20Updates.md)
