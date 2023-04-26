@@ -14,7 +14,8 @@
 10. [Daily Updates Page](https://github.com/srujan0403/GDP2_Project_Group3/edit/main/Daily%20Updates.md)
 11. [Project Page](https://github.com/users/srujan0403/projects/1)
 
-#### Project Objective:The objective of this project was to create a web application that recognizes and categorizes fruits and vegetables from uploaded photographs using a machine learning model and Python tools.
+#### Project Objective:
+The objective of this project was to create a web application that recognizes and categorizes fruits and vegetables from uploaded photographs using a machine learning model and Python tools.
 
 <a href="#top">Back to top</a>
 
